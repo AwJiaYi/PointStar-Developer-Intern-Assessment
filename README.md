@@ -12,6 +12,8 @@ The agent demonstrates:
 - A safe calculator tool
 - Hallucination guardrails
 - Logging, error handling, and unit tests
+- Retry with exponential backoff for temporary API failures
+- Model fallback for quota/service availability issues
 
 ## Architecture
 
@@ -123,7 +125,8 @@ Copy `.env.example` to `.env`:
 
 ```env
 GEMINI_API_KEY=your_real_key_here
-GEMINI_MODEL=gemini-2.5-flash
+GEMINI_MODEL=gemini-3.8-flash
+GEMINI_FALLBACK_MODEL=gemini-3.7-flash
 ```
 
 Never commit `.env` to GitHub.
