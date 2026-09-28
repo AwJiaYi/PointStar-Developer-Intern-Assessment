@@ -1,0 +1,27 @@
+NovaTech Employee Handbook (Sample Document)
+
+1. Working Hours
+Employees work from Monday to Friday.
+Standard working hours are from 9:00 AM to 6:00 PM.
+
+2. Annual Leave
+Full-time employees receive 14 days of annual leave per year.
+
+3. Remote Work
+Employees may work remotely up to two days per week with manager approval.
+
+4. Professional Development
+Each employee receives an annual professional development budget of RM1,200.
+The budget may be used for technical courses, certifications, and approved conferences.
+
+5. Medical Benefits
+Employees receive outpatient medical coverage of up to RM800 per year.
+
+6. Information Security
+Employees must not share passwords, API keys, customer records, or confidential company information.
+
+7. Technical Support
+Critical production incidents must be reported to the technical lead immediately.
+
+Note:
+This is a fictional sample document created only for the PointStar Developer Intern assessment.
