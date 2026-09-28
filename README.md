@@ -12,6 +12,8 @@ The agent demonstrates:
 - A safe calculator tool
 - Hallucination guardrails
 - Logging, error handling, and unit tests
+- Retry with exponential backoff for temporary API failures
+- Model fallback for quota/service availability issues
 
 ## Architecture
 
